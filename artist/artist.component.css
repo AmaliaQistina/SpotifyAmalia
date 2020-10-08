@@ -1,0 +1,28 @@
+.title {
+    text-align: center;
+    font-family: "Elephant";
+    font-size: 25px;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+  .data {
+    font-family: "Elephant";
+    font-size: 20px;
+  }
+  
+  .column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+    background-color: rgb(12, 44, 56);
+  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
