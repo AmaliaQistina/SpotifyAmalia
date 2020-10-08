@@ -1,0 +1,15 @@
+.title {
+    text-align: center;
+    font-family: "Elephant";
+    font-size: 20px;
+    color: rgb(3, 25, 48);
+  }
+  .need {
+    font-family: "Elephant", cursive, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    color: rgb(3, 25, 48);
+  }
+  .blue-font {
+    color: rgb(3, 25, 48);
+  }
